@@ -1,0 +1,24 @@
+{
+  "name": "edgarsec",
+  "version": "1.0.0",
+  "description": "Installation ===",
+  "main": "sec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxponte/edgarSEC.git"
+  },
+  "author": "Max Ponte",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxponte/edgarSEC/issues"
+  },
+  "homepage": "https://github.com/maxponte/edgarSEC#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "request": "^2.79.0",
+    "xml2json": "^0.11.0"
+  }
+}
